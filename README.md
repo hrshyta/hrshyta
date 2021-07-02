@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @hrshyta
-- 👀 I’m interested in Application Development(Mobile,Web)
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on Android projects.
+
 - 📫 How to reach me hrshyta@gmail.com
 
 <!---
